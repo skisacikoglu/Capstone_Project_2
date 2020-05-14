@@ -1,9 +1,11 @@
 # Capstone_Project_2
 PROJECT TITLE: Predicting Movie Rating and Building a Recommender System
+
 PROBLEM STATEMENT
 During the last few decades, with the rise of Youtube, Amazon, Netflix and many other such web services, recommender systems have taken more and more place in our lives. From e-commerce to online advertisement recommender systems are today unavoidable in our daily online journeys. In a very general way, recommender systems are algorithms aimed at suggesting relevant items to users (items being movies to watch, text to read, products to buy or anything else depending on industries).
 Recommender systems are critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors. One of these sectors is movie industry. We will use movie dataset so the client of our project could be movie products sellers such as Amazon, Netflix, Hulu and movie production companies. 
 The first goal of this project is understanding the important features of movie sector and predicting a movie rate. The second goal of this project is building a recommender system to provide recommendations for different users. 
+
 DATA DESCRIPTION
 For this project, I will use two datasets of movies from Kaggle. One of them contains various details about movies for our analysis. It consists of two different files as movies and credits. The data can be reached from the following link, https://www.kaggle.com/tmdb/tmdb-movie-metadata. There are 4803 movie entries. 
 The first dataset ‘credits’ contains the following features:
