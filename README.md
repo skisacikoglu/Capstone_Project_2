@@ -8,11 +8,13 @@ The first goal of this project is understanding the important features of movie 
 
 DATA DESCRIPTION
 For this project, I will use two datasets of movies from Kaggle. One of them contains various details about movies for our analysis. It consists of two different files as movies and credits. The data can be reached from the following link, https://www.kaggle.com/tmdb/tmdb-movie-metadata. There are 4803 movie entries. 
+
 The first dataset ‘credits’ contains the following features:
 	movie_id - a unique identifier for each movie
 	title - the title of the movie
 	cast - the name of lead and supporting actors
 	crew - the name of director, editor, composer, writer etc.
+
 The second dataset ‘movies’ has the following features:
 	budget - The budget in which the movie was made.
 	genre - The genre of the movie, action, comedy, thriller etc.
@@ -34,7 +36,9 @@ The second dataset ‘movies’ has the following features:
 	title - Title of the movie.
 	vote_average - average ratings the movie recieved.
 	vote_count - the count of votes recieved.
+
 The second dataset from Kaggle is about users. It can be reached from the following link. https://www.kaggle.com/rounakbanik/undefined#ratings_small.csv. The user id in this data set is important for collaborative filtering. The user is recommended items that people with similar tastes and preferences liked in the past. The features of this data set are:
+
 	userId - a unique identifier for each user
 	movieId - a unique identifier for each movie
 	rating – the rating users gave.
